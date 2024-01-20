@@ -17,6 +17,7 @@
             </div>
             <div class="body">
                 <form name="form-input-member">
+                    @csrf
                     <label for="nama">Nama</label>
                     <div class="form-group">
                         <div class="form-line">

@@ -17,6 +17,7 @@
             </div>
             <div class="body">
                 <form name="form-input-hobby">
+                    @csrf
                     <div class="row clearfix">
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                             <div class="form-group form-float">
